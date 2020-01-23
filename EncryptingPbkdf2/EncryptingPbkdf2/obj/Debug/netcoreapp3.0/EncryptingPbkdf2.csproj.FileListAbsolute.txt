@@ -1,0 +1,11 @@
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\Enrypting-Pbkdf2\EncryptingPbkdf2\EncryptingPbkdf2\bin\Debug\netcoreapp3.0\EncryptingPbkdf2.exe
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\Enrypting-Pbkdf2\EncryptingPbkdf2\EncryptingPbkdf2\bin\Debug\netcoreapp3.0\EncryptingPbkdf2.deps.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\Enrypting-Pbkdf2\EncryptingPbkdf2\EncryptingPbkdf2\bin\Debug\netcoreapp3.0\EncryptingPbkdf2.runtimeconfig.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\Enrypting-Pbkdf2\EncryptingPbkdf2\EncryptingPbkdf2\bin\Debug\netcoreapp3.0\EncryptingPbkdf2.runtimeconfig.dev.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\Enrypting-Pbkdf2\EncryptingPbkdf2\EncryptingPbkdf2\bin\Debug\netcoreapp3.0\EncryptingPbkdf2.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\Enrypting-Pbkdf2\EncryptingPbkdf2\EncryptingPbkdf2\bin\Debug\netcoreapp3.0\EncryptingPbkdf2.pdb
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\Enrypting-Pbkdf2\EncryptingPbkdf2\EncryptingPbkdf2\obj\Debug\netcoreapp3.0\EncryptingPbkdf2.csprojAssemblyReference.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\Enrypting-Pbkdf2\EncryptingPbkdf2\EncryptingPbkdf2\obj\Debug\netcoreapp3.0\EncryptingPbkdf2.AssemblyInfoInputs.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\Enrypting-Pbkdf2\EncryptingPbkdf2\EncryptingPbkdf2\obj\Debug\netcoreapp3.0\EncryptingPbkdf2.AssemblyInfo.cs
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\Enrypting-Pbkdf2\EncryptingPbkdf2\EncryptingPbkdf2\obj\Debug\netcoreapp3.0\EncryptingPbkdf2.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\Enrypting-Pbkdf2\EncryptingPbkdf2\EncryptingPbkdf2\obj\Debug\netcoreapp3.0\EncryptingPbkdf2.pdb
